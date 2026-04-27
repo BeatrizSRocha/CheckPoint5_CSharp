@@ -1,0 +1,8 @@
+C:\Users\labsfiap\Desktop\cp5\CP-05\obj\Debug\net8.0\CP-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\cp5\CP-05\obj\Debug\net8.0\CP-05.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\cp5\CP-05\obj\Debug\net8.0\CP-05.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\cp5\CP-05\obj\Debug\net8.0\CP-05.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\cp5\CP-05\obj\Debug\net8.0\CP-05.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\labsfiap\Desktop\cp5\CP-05\obj\Debug\net8.0\CP-05.RazorAssemblyInfo.cache
+C:\Users\labsfiap\Desktop\cp5\CP-05\obj\Debug\net8.0\CP-05.RazorAssemblyInfo.cs
+C:\Users\labsfiap\Desktop\cp5\CP-05\obj\Debug\net8.0\CP-05.sourcelink.json
